@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-# Sr. Data Analyst | Data Insight & Business Intelligence Strategy Lead
+# Solution Consultant
 
 I am a technical leader with 12 years of experience at the intersection of data architecture and strategic insights. With a foundation spanning massive infrastructure environments to advanced agricultural research data, I specialize in navigating the transition from raw data chaos to governed, high-trust analytical ecosystems enabling data driven decision making. 
 
