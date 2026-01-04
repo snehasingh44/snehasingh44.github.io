@@ -1,7 +1,7 @@
 # Site Settings
-title: Saurabh Pratap Singh
+title: Sneha Singh
 description: "Finding beauty in turning data complexity into reliable actionable business insights."
-url: "https://saurabhsingh-sunny.github.io"
+url: "https://github.com/snehasingh44/snehasingh44.github.io"
 baseurl: ""
 
 # Theme Settings
@@ -10,17 +10,17 @@ minimal_mistakes_skin: "air"
 
 # Identity Sidebar
 author:
-  name   : "Saurabh Pratap Singh"
+  name   : "Sneha Singh"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Sr. Data Analyst | Data Insights & BI Strategy Lead | Turning messy data reality into reliable business action."
-  location: "Sayreville, NJ"
+  bio    : "Solution Consultant"
+  location: "Dehradun, India"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/saurabh-june8"
+      url: "https://www.linkedin.com/in/sneha-singh-ss/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/saurabhsingh-sunny"
+      url: "https://github.com/snehasingh44"
 
 # Build Settings
 plugins:
